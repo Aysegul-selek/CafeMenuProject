@@ -1,1 +1,1 @@
-.NET CORE MVC N-Tiyer Design Patern OOP Entity Framework MSSQL 
+.NET CORE MVC N-layer ArchitectureDesing Pattern OOP Entity Framework MSSQL 
